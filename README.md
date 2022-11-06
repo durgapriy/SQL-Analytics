@@ -1,1 +1,1 @@
-# SQL-Analytics
+In this SQL project, I've cleaned the Nashville housing data table for better analysis using intermediate to advanced SQL queries.I performed various data cleaning techniques of SQL on the imported table using string functions, date functions, etc and achieved good results.
